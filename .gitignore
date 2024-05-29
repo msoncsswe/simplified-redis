@@ -1,5 +1,6 @@
 # data file
 ./src/data.json
+.DS_Store
 
 # Logs
 logs
